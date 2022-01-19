@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marsh52
+- 👋 Hi, I’m @marsh52 she/her 
 - 👀 I’m interested in learning more about the ins and outs of programming/coding/AI... really anything and everything that may help me as I get my CS degree over the next few years.
 
 
